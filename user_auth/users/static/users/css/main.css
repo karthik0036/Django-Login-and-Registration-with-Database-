@@ -1,0 +1,17 @@
+#header-text{
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 50px;
+    margin-top: 100px;
+  }
+
+#header-paragraph{
+    color: whitesmoke;
+    font-size: 20px;
+    padding-top: 30px;
+    font-weight: lighter;
+  }
+  #header-h1{
+    color: whitesmoke;
+    font-size: 60px;
+  }
